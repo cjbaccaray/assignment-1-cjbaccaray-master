@@ -33,7 +33,7 @@ namespace prog1783F20_HelloWorld
             instructions = Console.ReadLine();
 
             Console.WriteLine("Let's order some food!");
-            
+            double choice;
             
             
                 
